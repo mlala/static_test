@@ -40,6 +40,11 @@ I'd like to take a moment to thank Fred Benton, co-director of NESRI, for sendin
   sandbox="allow-scripts"  
 ></iframe>
 
+<iframe width="100%" height="500" class="share_self" 
+        frameborder="0" scrolling="no" 
+        src="https://widget.weibo.com/weiboshow/index.php?language=&width=0&height=500&fansRow=1&ptype=1&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=1234567890&verifier=a1b2c3d4">
+</iframe>
+
 ##### Header 5
 
 1.  This is an ordered list following a header.
