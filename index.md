@@ -33,7 +33,7 @@ I'd like to take a moment to thank Fred Benton, co-director of NESRI, for sendin
 
 
 <iframe 
-  src="finalmap_refd.html" 
+  src="https://mlala.github.io/static_test/finalmap_refd.html" 
   width="100%" 
   height="400px" 
   title="Embedded HTML Demo" 
