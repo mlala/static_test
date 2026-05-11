@@ -32,16 +32,13 @@ I'd like to take a moment to thank Fred Benton, co-director of NESRI, for sendin
 #### Map of Streets in Flatbush, Brooklyn
 
 
-<!-- Bilibili Video -->
-<iframe src="//player.bilibili.com/player.html?bvid=BV_ID&page=1" 
-        scrolling="no" 
-        border="0" 
-        frameborder="no" 
-        framespacing="0" 
-        allowfullscreen="true" 
-        width="100%" 
-        height="400">
-</iframe>
+<iframe 
+  src="https://<your-username>.github.io/html-demos/demo.html" 
+  width="100%" 
+  height="400px" 
+  title="Embedded HTML Demo" 
+  sandbox="allow-scripts"  <!-- Allows the embedded HTML to run scripts -->
+></iframe>
 
 ##### Header 5
 
