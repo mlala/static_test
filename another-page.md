@@ -1,9 +1,9 @@
 ---
-layout: default
+Mapping Slavery: a paved legacy in Brooklyn
 ---
 
-## Welcome to another page
+## Tech Specs
 
-_yay_
+For more details on the Python workflow, visit my [GitHub page](https://github.com/mlala/mapping_slavery).
 
-[back](./)
+[back](./index.md)
