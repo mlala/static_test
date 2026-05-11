@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Mapping Slavery: A paved legacy in Brooklyn
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: A Python project analyzing and visualizing data on enslavers residing in Flatbush, Brooklyn. Created by Maya Davis for INFO-664, Pratt Institute School of Information.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
