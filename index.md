@@ -38,7 +38,7 @@ I'd like to take a moment to thank Fred Benton, co-director of NESRI, for sendin
   width="100%" 
   height="400px" 
   title="Embedded HTML Demo" 
-  sandbox="allow-scripts"  
+    
 ></iframe>
 </div>
 <iframe width="100%" height="500" class="share_self" 
